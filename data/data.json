@@ -1,0 +1,106 @@
+{
+    "myData": {
+        "mainMenu": [{
+                "title": "Home",
+                "url": "#",
+                "class": "page-scroll",
+                "target": ""
+            },
+            {
+                "title": "About",
+                "url": "#about",
+                "class": "page-scroll",
+                "target": ""
+            },
+            {
+                "title": "Categories",
+                "url": "#categories",
+                "class": "page-scroll",
+                "target": ""
+            },
+            {
+                "title": "Testimonials",
+                "url": "#testimonials",
+                "class": "page-scroll",
+                "target": ""
+            },
+            {
+                "title": "Contact",
+                "url": "#contact",
+                "class": "page-scroll",
+                "target": ""
+            }
+        ],
+
+        "title": [{
+            "mainTitle": "Progressive Associates of India"
+        }],
+
+        "about": [{
+                "class": "content",
+                "heading": "About Us",
+                "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+            },
+            {
+                "class": "content",
+                "heading": "Vision",
+                "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+            },
+            {
+                "class": "content",
+                "heading": "Mission",
+                "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose "
+            }
+        ],
+
+        "catagory": [{
+                "class": "content",
+                "heading": "Categories",
+                "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
+            },
+            {
+                "class": "content",
+                "heading": "Construction",
+                "content": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.",
+                "btn_name": "Read More"
+            },
+            {
+                "class": "content",
+                "heading": "European House",
+                "content": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.",
+                "btn_name": "Read More"
+            },
+            {
+                "class": "content",
+                "heading": "IT Services",
+                "content": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.",
+                "btn_name": "Read More"
+            },
+            {
+                "class": "content",
+                "heading": "Events",
+                "content": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.",
+                "btn_name": "Read More"
+            }
+        ],
+
+        "testimonials": [{
+                "class": "testimonials",
+                "quote": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+                "name": "First Name",
+                "img": "images/user.png"
+            },
+            {
+                "class": "testimonials",
+                "title": "Testimonials",
+                "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout."
+            }
+        ],
+
+        "contact": [{
+            "class": "content",
+            "heading": "Contact",
+            "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout."
+        }]
+    }
+}
